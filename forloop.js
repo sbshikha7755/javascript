@@ -119,10 +119,10 @@
 // }
 // print each charecter of the string "hello"
 
-let str = "hello"
-for(cont char string){
-console.log(str)
-}
+// let str = "hello"
+// for(cont char string){
+// console.log(str)
+// }
 // let sq ;
 // for(let i=1; i<=5; i++){
 //     sq = i*i
