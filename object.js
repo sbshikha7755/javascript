@@ -16,6 +16,10 @@ const resume = {
     Skills : ["Web Develpoer","Full Stack", "Fronted Devloper"]
 
 }
+resume.Name = "Ram";
+resume.Age = 20;
+
+delete resume [ 'Age'];
 console.log(resume.Skills);
-// document.getElementById("para").innerHTML="I am" + " " + resume.Name + " " + "and" + " " + "I am " + resume.Skills
+document.getElementById("para").innerHTML="I am" + " " + resume.Name + " " + "and" + " " + "I am " + resume.Age;
 

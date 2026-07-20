@@ -99,12 +99,13 @@
 
 // multiplication of 3
 
-// let d = 10
-// for(let i = 1; i<=10; i++ ){
-//     console.log(i*5)
+let d = 10
+for(let i = 1; i<=10; i++ ){
+    console.log(i*5)
+  
     
-    
-// }
+}
+
 
 // sum of Number from 1 to 5
 
