@@ -73,13 +73,13 @@
 
 // 1 to 5 number print break
 
-for(let i=0; i<120; i++){
-    if(i==5){
+// for(let i=0; i<120; i++){
+//     if(i==5){
        
-        break;
-    }
-     console.log(i)
-}
+//         break;
+//     }
+//      console.log(i)
+// }
 
 // 1 to 10 print number of continue
 
@@ -91,5 +91,10 @@ for(let i=0; i<120; i++){
 //      console.log(i)
 // }
 
+let i = 1;
 
+while (i <= 10) {
+    console.log(`5 x ${i} = ${5 * i}`);
+    i++;
+}
 
